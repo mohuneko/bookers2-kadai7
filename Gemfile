@@ -82,4 +82,5 @@ gem 'jquery-rails'
 gem 'nokogiri', '~> 1.10', '>= 1.10.9'
 gem 'bootstrap-sass', '~> 3.3.6' #bootstrap
 gem 'jquery-rails'
+gem 'therubyracer'
 # gem 'bootstrap-sass'
